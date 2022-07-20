@@ -1,9 +1,12 @@
 <html>
+<head><title>تیم والبال</title>
+  <caption><h3>اسامی دعوت شدگان به تیم ملی نوجوانان<h3></caption>
+  <head>
     <body>
 <table border="20px"   style="width: 600px;">
-    <caption><h3>اسامی دعوت شدگان به تیم ملی نوجوانان<h3></caption>
+  
     <thead style="background-color: rgb(46, 32, 250);">
-<title>تیم والبال</title>       
+       
        <tr>
         <th>ردیف</th>
         <th>نام و نام خانوادگی</th>
